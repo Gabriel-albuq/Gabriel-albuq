@@ -20,7 +20,7 @@ Atualmente busco me desenvolver em Engenharia e Ciência de Dados, e estarei col
     <img align="center" alt="html15" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-<div>
+<div><br>
 
 ### Tecnologias que estou me desenvolvendo
 <div style="display: inline_block"><br/>
