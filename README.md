@@ -8,7 +8,7 @@ Atualmente busco me desenvolver em Engenharia e Ciência de Dados, e estarei col
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-albuq&show_icons=true&theme=tokyonight)
 
-### Tecnologias que uso no meu dia
+### :star: Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -22,7 +22,7 @@ Atualmente busco me desenvolver em Engenharia e Ciência de Dados, e estarei col
 
 <div><br>
 
-### Tecnologias que estou me desenvolvendo
+### :star: Tecnologias que estou me desenvolvendo
 <div style="display: inline_block"><br/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
