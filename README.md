@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldealbuquerque/)
 
 Sou um paixonado por Dados.  
-Formado em Engenharia Mecânica pela UFPE e Pós Graduado em Engenharia e Análise de Dados pela Cesar School, sempre trabalhei em indústrias fornecendo insights valiosos a partir dos dados, buscando aulixiar na tomada de decisão.  
+Formado em Engenharia Mecânica pela UFPE e Pós Graduado em Engenharia e Análise de Dados pela Cesar School, sempre trabalhei em indústrias fornecendo insights valiosos a partir dos dados, buscando auxiliar na tomada de decisão.  
 
 Atualmente busco me desenvolver em Engenharia e Ciência de Dados, e estarei colocando aqui os projetos que estou fazendo a partir de agora.
 
